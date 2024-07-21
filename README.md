@@ -1,3 +1,5 @@
+![2020-05-13 10_58_58-Free Logo Maker - Get Custom Logo Designs in Minutes _ Looka](https://github.com/user-attachments/assets/121bbaa5-1d3f-4683-b290-0890e332d06d)
+
 # Audio-Signal-Recognition
 
 This is an Audio Signal Recognition like Cortana, Siri, Alexa or Ok Goole
